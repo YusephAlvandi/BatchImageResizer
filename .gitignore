@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Input and output test folders
+input_images/
+output_images/
+test_input/
+test_output/
