@@ -1,6 +1,6 @@
 Batch Image Resizer
 
-A professional batch image resizing tool aspect ratios.
+A professional batch image resizing tool preserving aspect ratios.
 
 Built with Python, CustomTkinter, and Pillow. Suitable for offline working.
 
